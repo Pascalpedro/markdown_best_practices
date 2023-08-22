@@ -92,3 +92,35 @@ For example:
 - to bold and italicize the middle of a word, add three asterisks without spaces around the letters.  
   For example:  
   - This is a b***ol****d letter.
+
+
+## BLOCK QUOTES!!!
+
+To create a block quote:
+- add a > in front of a paragraph.  
+For example:  
+> This is an example of a block quote. 
+
+To create blockquotes with multiple paragraphs:
+- add a > on the blank lines between the paragraphs.  
+For example:  
+> This is a block quote.
+>
+> This is another block quote.
+
+To create nested block quotes:  
+- add a >> in front of the paragraph you want to nest.  
+For example:
+> This is a
+ block quote.
+>
+>> This is another block quote.
+
+To create blockquotes with other markdown formatted elements:  
+> #### This is a block quote!!
+>
+> - This is a bullet inside a blockquote.
+>
+> *This* is an emphaisis inside a **blockquote**.
+
+`N/B: For best practices, use blank lines before and after block quotes.
