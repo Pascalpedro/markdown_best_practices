@@ -27,4 +27,18 @@ For example:
 ..
 ###### This font size was created with six hash signs.
 
-`N/B: There should be a space after the hash sign before typing the word of phrase.`
+`N/B: There should be a space after the hash sign before typing the word or phrase.`
+`Also, always put blank lines before and after a heading for compatibility.`
+
+
+## PARAGRAPH:
+
+To create a paragraph, use a blank line to separate one or more lines of text.  
+For example:  
+This is my first paragraph...
+
+This is my second paragraph...
+
+`N/B: Do not indent paragraphs with spaces or tabs unless the paragraph is in a list.`
+
+
