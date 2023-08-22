@@ -50,9 +50,45 @@ For example:
   - This is the first line. 
   - This is the second line. 
   
-- Use the `<br>` HTML tag.  
+- Use the `<br>` HTML tag at the end of the sentence.  
   For example:  
   - This is the first line. <br>
   - This is the second line.
 
   
+## EMPHASIS!!!
+
+A text can be made bold or italic by the use of emphasis.  
+To get a bold text:
+- add two asterisks or underscores before and after a word or phrase.  
+For example:  
+  - This is a **bold** text. 
+  - This is a __bold__ text. 
+  
+- to bold the middle of a word, add two asterisks without spaces around the letters.  
+  For example:  
+  - This is a b**ol**d letter.
+ 
+To get an italic text:
+- add asterisk or underscore before and after a word or phrase.  
+For example:  
+  - This is an *italic* text. 
+  - This is an _italic_ text. 
+  
+- to italic the middle of a word, add one asterisk without spaces around the letters.  
+  For example:  
+  - This is an i*tali*c letter.
+ 
+To use bold and italics simultaneously in one sentence:
+- add three asterisks or underscores before and after a word or phrase.
+- add two asterisks and one underscore before and after a word.
+- add two underscores and one asterisk before and after a word.
+For example:  
+  - This is a ***bold italic*** text. 
+  - This is a ___bold italic___ text.
+  - This is a **_bold italic_** text.
+  - This is a __*bold italic*__ text.
+  
+- to bold and italicize the middle of a word, add three asterisks without spaces around the letters.  
+  For example:  
+  - This is a b***ol****d letter.
