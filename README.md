@@ -42,3 +42,17 @@ This is my second paragraph...
 `N/B: Do not indent paragraphs with spaces or tabs unless the paragraph is in a list.`
 
 
+## LINE BREAK!!!
+
+To create a line break:
+- End the line with two or more spaces ("trailing whitespace").  
+For example:  
+  - This is the first line. 
+  - This is the second line. 
+  
+- Use the `<br>` HTML tag.  
+  For example:  
+  - This is the first line. <br>
+  - This is the second line.
+
+  
